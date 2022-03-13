@@ -1,2 +1,2 @@
 # LinkedList_Complete_Notes_DSA
-Linked List complete handwritten Notes.
+Linked List complete handwritten Note.
